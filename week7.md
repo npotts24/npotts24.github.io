@@ -14,7 +14,7 @@ We did our Mid-Summer Presentations all day. I think my presentation could've go
 
 
 On Thursday July 11th, 2024:
-We worked on our goals and plans for the rest of the program, ...
+We worked on our goals and plans for the rest of the program, We visited a Recreation Center and spoke with some students, learned information from the BSEC from Johns Hopkins and We worked on python after lunch.
 
 
 
