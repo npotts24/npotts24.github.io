@@ -7,7 +7,7 @@ On Tuesday July 16th, we worked on our final report to prepare it for Friday.
 
 
 
-On Wednesday July 17th, 
+On Wednesday July 17th, we continued working on our final report and our elevator pitch.
 
 
 
