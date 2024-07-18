@@ -12,7 +12,7 @@ On Wednesday July 17th, we continued working on our final report and our elevato
 
 
 
-On Thursday July 18th,
+On Thursday July 18th, we did the same thing. worked on our final report and our elevator pitch.
 
 
 
