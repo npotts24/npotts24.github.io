@@ -5,4 +5,6 @@ On Tuesday July 23rd, we worked on our Final Papers and Final Presentations.
 
 On Wednesday July 24th, we continued working on our Final Papers and our Final Presentation.
 
+On Thursday July 25th, we continued working on our Final Presentation.
+
 
