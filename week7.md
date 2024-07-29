@@ -22,4 +22,4 @@ On Friday July 12th, 2024:
 We worked on our abstracts to give to Dr.Pandey after lunch. We met with Dr.Pandey after lunch to discuss our presentations and grammar and writing. 
 
 
-
+[Back](./)
