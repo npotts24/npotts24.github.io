@@ -11,3 +11,5 @@ On Thursday June 27th, 2024, We presented our slides to the highschool students 
 
 
 On Friday June 28th, 2024, We worked on our discussion posts and our weekly journal entries. We also had a writing session with Dr. Anita Pandey. We talked about the main focus of our research and the things we would be looking for in our research articles. 
+
+[Back](./)
