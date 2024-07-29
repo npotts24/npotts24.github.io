@@ -15,3 +15,7 @@ On Thursday July 4th, 2024, we had no institution.
 
 
 On Friday July 5th, 2024, we worked on our weekly blogs.
+
+
+[Back](./)
+
