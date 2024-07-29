@@ -20,6 +20,6 @@ On Thursday July 18th, we did the same thing. worked on our final report and our
 On Friday July 19th, we worked to finalize our elevator pitch and continued working on our final report with our mentor.
 
 
-
+[Back](./)
 
 
