@@ -8,3 +8,5 @@ On Wednesday July 24th, we continued working on our Final Papers and our Final P
 On Thursday July 25th, we continued working on our Final Presentation.
 
 On Friday July 26th, we finalized our Final Presentation to turn it in.
+
+[Back](./)
