@@ -12,3 +12,5 @@ On Thursday, June 6th, 2024, We continued working on Python: strings, variables,
 
 
 On Friday, June 7th, 2024, we also continued working on Python, we began to plot graphs using the MatPlot Library. we made scatter plots, bar graphs, line graphs, and histograms to represent the data set we were given.
+
+[Back](./)
