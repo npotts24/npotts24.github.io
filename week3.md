@@ -12,3 +12,5 @@ On Wednesday June 12th, we had a guest speaker come in from Google to tell us ab
 On Thursday June 13th, we went on a Field Trip to The John Hopkins APL Research Lab. We got to see the robots they were working on, we saw some of the projects they were working on.
 
 On Friday June 14th, we did a bit of Python, manipulating data using NumPy, MatPlotLib, and Pandas. We had a writing session with Anita Pandey and we talked about our literature reviews, how to collect research for the topica we needed, ansd the most efficient ways to do so. We also worked on our Week 3 project video and weekly blog.
+
+[Back](./)
